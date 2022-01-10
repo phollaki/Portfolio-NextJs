@@ -1,0 +1,42 @@
+{
+  "python": {
+    "id": 1,
+    "name": "python"
+  },
+  "java": {
+    "id": 2,
+    "name": "java"
+  },
+  "javascript": {
+    "id": 3,
+    "name": "js"
+  },
+  "github": {
+    "id": 4,
+    "name": "git"
+  },
+  "reactjs": {
+    "id": 5,
+    "name": "react"
+  },
+  "nextjs": {
+    "id": 6,
+    "name": "next"
+  },
+  "spring": {
+    "id": 7,
+    "name": "spring"
+  },
+  "oracle": {
+    "id": 8,
+    "name": "oracle"
+  },
+  "node": {
+    "id": 12,
+    "name": "node"
+  },
+  "tailwind": {
+    "id": 14,
+    "name": "tailwind"
+  }
+}

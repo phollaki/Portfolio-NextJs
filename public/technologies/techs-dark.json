@@ -1,0 +1,222 @@
+{
+  "python": {
+    "id": 1,
+    "name": "Python",
+    "src": "/icons/python.svg"
+  },
+  "java": {
+    "id": 2,
+    "name": "Java",
+    "src": "/icons/java.svg"
+  },
+  "javascript": {
+    "id": 3,
+    "name": "JavaScript",
+    "src": "/icons/javascript.svg"
+  },
+  "github": {
+    "id": 4,
+    "name": "Github",
+    "src": "/icons/github.png"
+  },
+  "reactjs": {
+    "id": 5,
+    "name": "ReactJS",
+    "src": "/icons/react.svg"
+  },
+  "nextjs": {
+    "id": 6,
+    "name": "Nextjs",
+    "src": "/icons/next.png"
+  },
+  "spring": {
+    "id": 7,
+    "name": "Spring",
+    "src": "/icons/spring.svg"
+  },
+  "oracle": {
+    "id": 8,
+    "name": "Oracle",
+    "src": "/icons/oracle.svg"
+  },
+  "html": {
+    "id": 9,
+    "name": "HTML",
+    "src": "/icons/html.svg"
+  },
+  "css": {
+    "id": 10,
+    "name": "CSS",
+    "src": "/icons/css.svg"
+  },
+  "bootstrap": {
+    "id": 11,
+    "name": "Bootstrap",
+    "src": "/icons/bootstrap.svg"
+  },
+  "node": {
+    "id": 12,
+    "name": "NodeJS",
+    "src": "/icons/node.svg"
+  },
+  "redux": {
+    "id": 13,
+    "name": "Redux",
+    "src": "/icons/redux.svg"
+  },
+  "tailwind": {
+    "id": 14,
+    "name": "TailwindCSS",
+    "src": "/icons/tailwind.svg"
+  },
+  "npm": {
+    "id": 15,
+    "name": "NPM",
+    "src": "/icons/npm.svg"
+  },
+  "yarn": {
+    "id": 16,
+    "name": "Yarn",
+    "src": "/icons/yarn.svg"
+  },
+  "mysql": {
+    "id": 17,
+    "name": "Mysql",
+    "src": "/icons/mysql.svg"
+  },
+  "laravel": {
+    "id": 18,
+    "name": "Laravel",
+    "src": "/icons/laravel.svg"
+  },
+  "php": {
+    "id": 19,
+    "name": "PHP",
+    "src": "/icons/php.svg"
+  },
+  "materialui": {
+    "id": 20,
+    "name": "MaterialUI",
+    "src": "/icons/materialui.svg"
+  },
+  "raspberry": {
+    "id": 21,
+    "name": "RaspberryPI",
+    "src": "/icons/raspberry.svg"
+  },
+  "firebase": {
+    "id": 22,
+    "name": "Firebase",
+    "src": "/icons/firebase.svg"
+  },
+  "python2": {
+    "id": 1,
+    "name": "Python",
+    "src": "/icons/python.svg"
+  },
+  "java2": {
+    "id": 2,
+    "name": "Java",
+    "src": "/icons/java.svg"
+  },
+  "javascript2": {
+    "id": 3,
+    "name": "JavaScript",
+    "src": "/icons/javascript.svg"
+  },
+  "github2": {
+    "id": 4,
+    "name": "Github",
+    "src": "/icons/github.png"
+  },
+  "reactjs2": {
+    "id": 5,
+    "name": "ReactJS",
+    "src": "/icons/react.svg"
+  },
+  "nextjs2": {
+    "id": 6,
+    "name": "Nextjs",
+    "src": "/icons/next.png"
+  },
+  "spring2": {
+    "id": 7,
+    "name": "Spring",
+    "src": "/icons/spring.svg"
+  },
+  "oracle2": {
+    "id": 8,
+    "name": "Oracle",
+    "src": "/icons/oracle.svg"
+  },
+  "html2": {
+    "id": 9,
+    "name": "HTML",
+    "src": "/icons/html.svg"
+  },
+  "css2": {
+    "id": 10,
+    "name": "CSS",
+    "src": "/icons/css.svg"
+  },
+  "bootstrap2": {
+    "id": 11,
+    "name": "Bootstrap",
+    "src": "/icons/bootstrap.svg"
+  },
+  "node2": {
+    "id": 12,
+    "name": "NodeJS",
+    "src": "/icons/node.svg"
+  },
+  "redux2": {
+    "id": 13,
+    "name": "Redux",
+    "src": "/icons/redux.svg"
+  },
+  "tailwind2": {
+    "id": 14,
+    "name": "TailwindCSS",
+    "src": "/icons/tailwind.svg"
+  },
+  "npm2": {
+    "id": 15,
+    "name": "NPM",
+    "src": "/icons/npm.svg"
+  },
+  "yarn2": {
+    "id": 16,
+    "name": "Yarn",
+    "src": "/icons/yarn.svg"
+  },
+  "mysql2": {
+    "id": 17,
+    "name": "Mysql",
+    "src": "/icons/mysql.svg"
+  },
+  "laravel2": {
+    "id": 18,
+    "name": "Laravel",
+    "src": "/icons/laravel.svg"
+  },
+  "php2": {
+    "id": 19,
+    "name": "PHP",
+    "src": "/icons/php.svg"
+  },
+  "materialui2": {
+    "id": 20,
+    "name": "MaterialUI",
+    "src": "/icons/materialui.svg"
+  },
+  "raspberry2": {
+    "id": 21,
+    "name": "RaspberryPI",
+    "src": "/icons/raspberry.svg"
+  },
+  "firebase2": {
+    "id": 22,
+    "name": "Firebase",
+    "src": "/icons/firebase.svg"
+  }
+}

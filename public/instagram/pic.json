@@ -1,0 +1,34 @@
+{
+  "pic1": {
+    "likes": 37,
+    "src": "1.jpg"
+  },
+  "pic2": {
+    "likes": 66,
+    "src": "2.jpg"
+  },
+  "pic3": {
+    "likes": 51,
+    "src": "3.jpg"
+  },
+  "pic4": {
+    "likes": 43,
+    "src": "4.jpg"
+  },
+  "pic5": {
+    "likes": 51,
+    "src": "5.jpg"
+  },
+  "pic6": {
+    "likes": 37,
+    "src": "6.jpg"
+  },
+  "pic7": {
+    "likes": 39,
+    "src": "7.jpg"
+  },
+  "pic8": {
+    "likes": 44,
+    "src": "8.jpg"
+  }
+}
